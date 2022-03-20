@@ -1,5 +1,3 @@
-# Estrutura_de_Dados
-
 ## :hammer:  Estruturas de dados
 
 - `Estrutura 1`: Vetor Simples
