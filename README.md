@@ -4,3 +4,4 @@
 - `Estrutura 2`: Lista Encadeada Simples
 - `Estrutura 3`: Lista Duplamente Encadeada
 - `Estrutura 4`: Lista Duplamente Encadeada com Nó Cabeça
+- `Estrutura 5`: Fila
