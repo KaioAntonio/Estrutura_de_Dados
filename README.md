@@ -5,3 +5,4 @@
 - `Estrutura 3`: Lista Duplamente Encadeada
 - `Estrutura 4`: Lista Duplamente Encadeada com Nó Cabeça
 - `Estrutura 5`: Fila
+- `Estrutura 6`: Pilha
